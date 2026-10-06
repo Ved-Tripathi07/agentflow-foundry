@@ -1,0 +1,3 @@
+semantic-kernel
+python-dotenv
+azure-cosmos
